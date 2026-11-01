@@ -2,8 +2,6 @@
 
 ### Business Intelligence | Python ETL & Looker Studio Dashboard
 
-<img width="1248" height="944" alt="Screenshot 2026-11-01 184215" src="https://github.com/user-attachments/assets/73956bf2-cb11-4d08-b2c9-05fc472f8ab1" />
-
 
 ## 📌 Project Overview
 
@@ -55,9 +53,7 @@ Tujuan utama proyek ini adalah:
 
 Dashboard dikembangkan menggunakan Looker Studio dengan tiga visualisasi utama.
 
-<p align="center">
-  <img src="images/dashboard-events.png" alt="Dashboard Events Telkomsel Branch Surabaya" width="100%">
-</p>
+<img width="1248" height="944" alt="Screenshot 2026-11-01 184215" src="https://github.com/user-attachments/assets/73956bf2-cb11-4d08-b2c9-05fc472f8ab1" />
 
 ### Dashboard Components
 
@@ -69,7 +65,7 @@ Dashboard dikembangkan menggunakan Looker Studio dengan tiga visualisasi utama.
 
 **Dashboard Access:** 
 
-[🔗 View Looker Studio Dashboard](MASUKKAN_LINK_DASHBOARD_DI_SINI)
+[🔗 View Looker Studio Dashboard](https://datastudio.google.com/reporting/c1bc66a8-438b-424b-9d1f-053cec7cf082)
 
 *Catatan: Ganti link di atas dengan tautan dashboard apabila diperbolehkan untuk dipublikasikan.*
 
